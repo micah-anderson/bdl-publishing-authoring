@@ -4,11 +4,11 @@
 
 ## Task List With Checkboxes
 
-- [ ] [External Link](#external-link)
-- [ ] [Internal Link](#internal-link)
-- [ ] [Image](#image)
-- [ ] [Emoji's](#emojis)
-- [ ] [Tables](#tables)
+- [x] [External Link](#external-link)
+- [x] [Internal Link](#internal-link)
+- [x] [Image](#image)
+- [x] [Emoji's](#emojis)
+- [x] [Tables](#tables)
 
 ## External Link
 - external link to [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
